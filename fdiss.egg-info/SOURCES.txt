@@ -1,0 +1,9 @@
+README.md
+pyproject.toml
+fdiss/__init__.py
+fdiss/fdiss.py
+fdiss.egg-info/PKG-INFO
+fdiss.egg-info/SOURCES.txt
+fdiss.egg-info/dependency_links.txt
+fdiss.egg-info/requires.txt
+fdiss.egg-info/top_level.txt
